@@ -1,0 +1,22 @@
+{
+  "name": "snapit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxaquib/snapit.git"
+  },
+  "author": "Aquib Shahbaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cxaquib/snapit/issues"
+  },
+  "homepage": "https://github.com/cxaquib/snapit#readme",
+  "devDependencies": {
+    "electron": "^28.1.3"
+  }
+}
